@@ -1,0 +1,19 @@
+This is a comprehensive ATM (Automated Teller Machine) application implemented in Python. The application simulates essential ATM functionalities.
+
+
+Features
+Balance Inquiry: Check the current balance of your account.
+Cash Withdrawal: Withdraw cash from your account (with limits).
+Deposit: Deposit money into your account.
+Transfer: Transfer money between accounts.
+Transaction History: View a history of your transactions.
+PIN Authentication: Secure your account with a PIN.
+Quit: Exit the ATM application.
+
+ATM Menu
+1. Balance Inquiry: View your current account balance.
+2. Cash Withdrawal: Withdraw cash by entering the amount.
+3. Deposit: Deposit cash by entering the amount.
+4. Transfer: Transfer money to another account.
+5. Transaction History: View your transaction history.
+6. Quit: Exit the ATM application.
